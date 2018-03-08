@@ -3,4 +3,10 @@ ZCZC Sistem Operasi 2018 Awal (1)
 
 ZCZC WEEK 00: DONE, DEMO: DONE
 
-ZCZC W02 telah menyelesaikan demo 01
+ZCZC W01: Demo done
+
+ZCZC W02
+
+ZCZC W03
+
+ZCZC W04
