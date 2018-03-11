@@ -5,8 +5,10 @@ ZCZC WEEK 00: DONE, DEMO: DONE
 
 ZCZC W01: Demo done
 
-ZCZC W02
+ZCZC W02: Demo done
 
-ZCZC W03
+ZCZC W03: Demo done
 
-ZCZC W04
+ZCZC W04: Demo done
+
+ZCZC W05
