@@ -11,4 +11,6 @@ ZCZC W03: Demo done
 
 ZCZC W04: Demo done
 
-ZCZC W05
+ZCZC W05: Demo done
+
+ZCZC W06
